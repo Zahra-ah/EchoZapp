@@ -1,0 +1,75 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">EchoZapp</string>
+    <string name="hi">Together to protect our planet</string>
+    <string name="s">Sign Up</string>
+    <string name="l">Login</string>
+
+    <string name="first">Welcome, now let us begin the journey of awareness and
+        knowledge of the dangers facing our planet, the most important of which is climate change</string>
+
+    <string name="climate_change">
+    Climate change includes changes made to the earth’s climate by
+    human emissions ofgreenhouse gases and their impact on weather
+    patterns.Although climatic changes have occurred historically
+    too,none of those changes can match the effect that modern
+    humans have made since the mid of the 20th century.
+</string>
+    <string name="carbon">Carbon dioxide emissions</string>
+    <string name="planting">Planting trees and increasing green areas</string>
+    <string name="tectcarbon">
+        Carbon dioxide emissions are a major driver of climate change,
+        contributing to the greenhouse effect that warms the Earth\'s
+        atmosphere.
+        These emissions primarily result from the burning of fossil fuels,
+        such
+        as coal, oil, and natural gas.Reducing CO2 emissions is crucial for
+        mitigating
+        global warming and protecting the environment for future generations.
+    </string>
+
+    <string name="defo">
+        Deforestation strips the planet of its vital forests, leading to loss of biodiversity and disruption of ecosystems.
+        As trees vanish, carbon dioxide levels rise, contributing to climate change. Urgent action is needed to preserve
+        remainingforests and restore damaged lands.
+    </string>
+    <string name="plw">
+        Plastic waste floods our oceans and landscapes, harming wildlife and leaching toxins into the
+        environment.Its persistence in ecosystems poses long-term risks to both human health and biodiversity.
+        Tackling plastic pollution requires drastic reduction in usage and improved recycling practices.
+    </string>
+    <string name="rnw">
+        Radioactive and nuclear waste remains hazardous for thousands of years, presenting long-term
+        environmental and health risks. Safe, secure storage solutions are crucial to prevent contamination
+        and protect future generations. Effective management and innovation are essential to address this challenging
+        issue.
+    </string>
+    <string name="slnp">
+        Sea, land, and air pollution collectively degrade ecosystems and harm human health, creating a
+        global crisis. Coordinated efforts are essential to reduce emissions, manage waste, and protect
+        natural resources.
+    </string>
+    <string name="glob">
+        Global warming drives rising temperatures and extreme weather patterns, leading to severe
+        environmental changes. It intensifies heatwaves, alters ecosystems, and accelerates ice melt.
+    </string>
+    <string name="globd">
+        Global droughts deplete water resources and harm agriculture, causing food shortages and
+        ecological stress. Prolonged dry conditions impact both natural habitats and human communities.
+
+</string>
+    <string name="forestfire">
+        Forest fires, often exacerbated by high temperatures and dry conditions, destroy vast areas of
+        woodland and wildlife habitats. They release significant amounts of carbon dioxide, further fueling
+        global warming.
+    </string>
+    <string name="melting">
+        The melting of the North Pole accelerates sea level rise and disrupts Arctic ecosystems. It also affects global weather patterns and threatens polar species with habitat loss.
+    </string>
+    <string name="naturald">Natural disasters, intensified by climate change, lead to devastating impacts on communities and environments. Hurricanes, floods, and wildfires are becoming more frequent and severe.</string>
+    <string name="ReducingCarbon">Reducing carbon emissions mitigates climate change by lowering greenhouse gases in the atmosphere. Implementing stricter regulations and adopting cleaner technologies are key strategies.</string>
+    <string name="SolarPanels">Solar panels convert sunlight into electricity, providing a renewable energy source that reduces reliance on fossil fuels. Their widespread use helps decrease greenhouse gas emissions and energy costs.</string>
+    <string name="WindTurbines">Wind turbines harness wind energy to generate electricity, offering a sustainable alternative to fossil fuels. They contribute to a cleaner energy grid and lower carbon footprints.</string>
+    <string name="RecyclingWaste">Recycling waste reduces the need for new raw materials, conserving resources and lowering pollution. Effective recycling programs minimize landfill use and decrease environmental impact.</string>
+    <string name="PlantingandIncreasingGreenAreas">Planting trees and increasing green areas absorb carbon dioxide and enhance urban air quality. Expanding green spaces also supports biodiversity and provides essential ecosystem services.</string>
+
+</resources>
